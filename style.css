@@ -13,9 +13,21 @@
 
 #container {
     display: flex;
+    justify-content: space-around;
     font-size: 18px;
     color: #e5e7eb;
     margin: 2em;
-    padding-left: 20px;
-    padding-right: 20px;
+}
+
+#main {
+    display: flex;
+    justify-content: space-between;
+    background: #1f2937;
+}
+
+#hero_main_text {
+    color:#f9faf8;
+    font-size: 32px;
+    font-weight: 800;
+    margin: 2em;
 }
