@@ -12,9 +12,7 @@
 }
 
 #container {
-    display: block;
-    float: right;
-    width: auto;
+    display: flex;
     font-size: 18px;
     color: #e5e7eb;
     margin: 2em;
